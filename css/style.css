@@ -1,0 +1,39 @@
+.main {
+  width:1170px;
+  height:2500px;
+  margin:0 auto;
+}
+.left {
+    width:370px;
+    height:2500px;
+    }
+.middle {
+    width:370px;
+    height:2500px;
+   }
+.right {
+    width:370px;
+    height:2500px;
+}
+.left_images {
+       width:300px;
+       height:180px;
+       margin-left: 5px;
+       margin-top: 5px;
+}
+.middle_images {
+    width:300px;
+    height:180px;
+    margin:5px 5px;
+}
+.right_images {
+    width:300px;
+    height:180px;
+    margin-right:5px;
+}
+.long_image {
+    height:350px;
+}
+.normal_image {
+    height:300px;
+}
